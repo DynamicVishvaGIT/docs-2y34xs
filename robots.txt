@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-fj2md1.yoursingles.online/sitemap.xml
